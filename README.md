@@ -1,1 +1,1 @@
-# pesamentocomputacional
+# pensamento_computacional
